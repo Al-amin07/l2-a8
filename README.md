@@ -4,7 +4,7 @@ A backend API for a Bike Servicing Management System that allows a bike servicin
 
 ## Live Backend Link
 
-[API Endpoint](https://bike-servicing-api.example.com) (Replace with your actual deployed URL)
+https://l2-a8-lime.vercel.app/
 
 ## Tech Stack
 
@@ -63,5 +63,15 @@ A backend API for a Bike Servicing Management System that allows a bike servicin
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/bike-servicing-api.git
+   git clone https://github.com/Al-amin07/l2-a8
    cd bike-servicing-api
+   
+2. Install Dependencies
+   ```bash
+   npm install
+   
+3. Setup .env file
+   
+4. run on local mechine
+   ```bash
+   npm run dev
